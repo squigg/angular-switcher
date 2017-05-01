@@ -73,4 +73,4 @@
 			return new Switcher($sce);
 		}]);
 	
-})(window.angular);
+})(angular);
